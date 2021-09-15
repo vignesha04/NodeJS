@@ -8,13 +8,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vignesha04/NodeJS.git"
+    "url": "git+https://github.com/johnpapa/node-hello.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vignesha04/NodeJS.git"
+    "url": "https://github.com/johnpapa/node-hello/issues"
   },
-  "homepage": "https://github.com/vignesha04/NodeJS.git#index.js"
+  "homepage": "https://github.com/johnpapa/node-hello#readme"
 }
